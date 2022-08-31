@@ -1,6 +1,6 @@
 .formacao {
     background-color: #141414;
-    color: #ffffff;
+    color: #ffffff; 
 }
 
 
@@ -47,6 +47,11 @@
     flex-wrap: wrap;
     gap: 20px;
     margin-bottom: 60px;
+}
+/* Add depois */
+.faculdade-lista a { 
+    text-decoration: none;
+    color: #ffffff;
 }
 
 .faculdade {
